@@ -1,0 +1,31 @@
+-----
+FONTLOG for the KeymanWeb-OSK font
+
+This file provides detailed information on the KeymanWeb-OSK Font Software.
+This information should be distributed along with the KeymanWeb-OSK fonts
+and any derivative works.
+
+Basic Font Information
+
+KeymanWeb-OSK is a font used for interface elements of KeymanWeb and
+Keyman's mobile software. (http://keyman.com/)
+
+ChangeLog
+
+24 October 2017 (SIL font development team) KeymanWeb-OSK version 1.001
+- Initial commit of basic text files to git repo
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E),
+web-address (if you have one) (W) and description (D).
+This list is in alphabetical order.
+
+N: SIL and Tavultesoft designers and developers
+E: http://scripts.sil.org/support
+W: http://software.sil.org/
+D: Designers and developers
+
+SIL International (http://www.sil.org/) serves language communities worldwide,
+building their capacity for sustainable language development by means of
+research, translation, training and materials development.
