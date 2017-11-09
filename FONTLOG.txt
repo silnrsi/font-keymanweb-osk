@@ -12,8 +12,8 @@ Keyman's mobile software. (http://keyman.com/)
 
 ChangeLog
 
-24 October 2017 (SIL font development team) KeymanWeb-OSK version 1.001
-- Initial commit of basic text files to git repo
+9 November 2017 (SIL font development team) KeymanWeb-OSK version 1.900
+- First test version after conversion to UFO
 
 Acknowledgements
 
