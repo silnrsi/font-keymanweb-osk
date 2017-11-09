@@ -3,23 +3,23 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>1491</integer>
+  <integer>1970</integer>
   <key>capHeight</key>
   <integer>1450</integer>
   <key>copyright</key>
   <string>Copyright (c) 2013-2017 SIL International</string>
   <key>descender</key>
-  <integer>-431</integer>
+  <integer>-467</integer>
   <key>familyName</key>
   <string>KeymanwebOsk</string>
   <key>openTypeHeadCreated</key>
   <string>2013/12/31 22:00:00</string>
   <key>openTypeHheaAscender</key>
-  <integer>1900</integer>
+  <integer>1970</integer>
   <key>openTypeHheaDescender</key>
-  <integer>-447</integer>
+  <integer>-467</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>8</integer>
+  <integer>0</integer>
   <key>openTypeNameDescription</key>
   <string>Copyright (c) 2013-2017 SIL International</string>
   <key>openTypeNameDesigner</key>
@@ -126,11 +126,11 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2SuperscriptYSize</key>
   <integer>1331</integer>
   <key>openTypeOS2TypoAscender</key>
-  <integer>1491</integer>
+  <integer>1970</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-431</integer>
+  <integer>-467</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>307</integer>
+  <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
