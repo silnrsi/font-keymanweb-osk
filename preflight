@@ -1,0 +1,3 @@
+#!/bin/sh
+
+psfnormalize source/KeymanwebOsk.ufo
