@@ -1,0 +1,5 @@
+#!/bin/sh
+# For use after editing the font with Glyphs
+
+psfglyphs2ufo source/KeymanwebOsk.glyphs ""
+psfnormalize source/KeymanwebOsk.ufo
