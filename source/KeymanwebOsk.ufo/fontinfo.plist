@@ -14,6 +14,10 @@
   <string>KeymanwebOsk</string>
   <key>italicAngle</key>
   <integer>0</integer>
+  <key>macintoshFONDFamilyID</key>
+  <integer>128</integer>
+  <key>macintoshFONDName</key>
+  <string>KeymanwebOsk</string>
   <key>openTypeHeadCreated</key>
   <string>2013/12/31 22:00:00</string>
   <key>openTypeHeadFlags</key>
@@ -29,24 +33,24 @@
   <integer>-447</integer>
   <key>openTypeHheaLineGap</key>
   <integer>8</integer>
+  <key>openTypeNameDescription</key>
+  <string/>
   <key>openTypeNameDesigner</key>
-  <string></string>
+  <string/>
   <key>openTypeNameDesignerURL</key>
-  <string></string>
+  <string/>
   <key>openTypeNameLicense</key>
-  <string></string>
+  <string/>
   <key>openTypeNameLicenseURL</key>
-  <string></string>
+  <string/>
   <key>openTypeNameManufacturer</key>
   <string>Tavultesoft Pty Ltd</string>
   <key>openTypeNameManufacturerURL</key>
-  <string></string>
-  <key>openTypeNameDescription</key>
-  <string></string>
+  <string/>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameSampleText</key>
-  <string></string>
+  <string/>
   <key>openTypeNameUniqueID</key>
   <string>TavultesoftPtyLtd: KeymanwebOsk Bold: 2013</string>
   <key>openTypeNameVersion</key>
@@ -77,8 +81,7 @@
     <integer>4</integer>
   </array>
   <key>openTypeOS2Selection</key>
-  <array>
-  </array>
+  <array/>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>530</integer>
   <key>openTypeOS2StrikeoutSize</key>
@@ -100,8 +103,7 @@
   <key>openTypeOS2SuperscriptYSize</key>
   <integer>1331</integer>
   <key>openTypeOS2Type</key>
-  <array>
-  </array>
+  <array/>
   <key>openTypeOS2TypoAscender</key>
   <integer>1491</integer>
   <key>openTypeOS2TypoDescender</key>
@@ -113,7 +115,7 @@
     <integer>0</integer>
   </array>
   <key>openTypeOS2VendorID</key>
-  <string></string>
+  <string/>
   <key>openTypeOS2WeightClass</key>
   <integer>400</integer>
   <key>openTypeOS2WidthClass</key>
@@ -133,8 +135,6 @@
     <integer>-20</integer>
     <integer>0</integer>
   </array>
-  <key>postscriptUniqueID</key>
-  <integer>-1</integer>
   <key>postscriptFontName</key>
   <string>KeymanwebOsk</string>
   <key>postscriptForceBold</key>
@@ -147,6 +147,8 @@
   <integer>-205</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>102</integer>
+  <key>postscriptUniqueID</key>
+  <integer>-1</integer>
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
@@ -163,13 +165,9 @@
   <integer>1</integer>
   <key>versionMinor</key>
   <integer>1</integer>
-  <key>year</key>
-  <integer>2013</integer>
   <key>xHeight</key>
   <integer>-1</integer>
-  <key>macintoshFONDName</key>
-  <string>KeymanwebOsk</string>
-  <key>macintoshFONDFamilyID</key>
-  <integer>128</integer>
+  <key>year</key>
+  <integer>2013</integer>
 </dict>
 </plist>

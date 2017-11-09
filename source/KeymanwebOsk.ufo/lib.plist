@@ -6,15 +6,15 @@
   <array>
     <dict>
       <key>angle</key>
-      <real>0</real>
+      <integer>0</integer>
       <key>isGlobal</key>
       <true/>
       <key>magnetic</key>
       <integer>5</integer>
       <key>x</key>
-      <real>0</real>
+      <integer>0</integer>
       <key>y</key>
-      <real>785</real>
+      <integer>785</integer>
     </dict>
   </array>
   <key>public.glyphOrder</key>
