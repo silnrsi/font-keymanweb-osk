@@ -168,6 +168,17 @@
     <string>facebook_2</string>
     <string>twitter_2</string>
     <string>download_2</string>
+    <string>left_alt</string>
+    <string>right_alt</string>
+    <string>shift_alt</string>
+    <string>left_ctrl</string>
+    <string>right_ctrl</string>
+    <string>shift_ctrl</string>
+    <string>left_alt_ctrl</string>
+    <string>right_alt_ctrl</string>
+    <string>shift_alt_ctrl</string>
+    <string>left_alt_ctrl_shift</string>
+    <string>right_alt_ctrl_shift</string>
   </array>
 </dict>
 </plist>

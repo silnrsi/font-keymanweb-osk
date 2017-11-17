@@ -194,6 +194,14 @@
   <string>k.glif</string>
   <key>l</key>
   <string>l.glif</string>
+  <key>left_alt</key>
+  <string>left_alt.glif</string>
+  <key>left_alt_ctrl</key>
+  <string>left_alt_ctrl.glif</string>
+  <key>left_alt_ctrl_shift</key>
+  <string>left_alt_ctrl_shift.glif</string>
+  <key>left_ctrl</key>
+  <string>left_ctrl.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>lowercase</key>
@@ -246,6 +254,14 @@
   <string>resize.glif</string>
   <key>resize_1</key>
   <string>resize_1.glif</string>
+  <key>right_alt</key>
+  <string>right_alt.glif</string>
+  <key>right_alt_ctrl</key>
+  <string>right_alt_ctrl.glif</string>
+  <key>right_alt_ctrl_shift</key>
+  <string>right_alt_ctrl_shift.glif</string>
+  <key>right_ctrl</key>
+  <string>right_ctrl.glif</string>
   <key>s</key>
   <string>s.glif</string>
   <key>semicolon</key>
@@ -254,6 +270,12 @@
   <string>seven.glif</string>
   <key>shift</key>
   <string>shift.glif</string>
+  <key>shift_alt</key>
+  <string>shift_alt.glif</string>
+  <key>shift_alt_ctrl</key>
+  <string>shift_alt_ctrl.glif</string>
+  <key>shift_ctrl</key>
+  <string>shift_ctrl.glif</string>
   <key>shifted</key>
   <string>shifted.glif</string>
   <key>six</key>
