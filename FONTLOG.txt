@@ -12,6 +12,9 @@ Keyman's mobile software. (http://keyman.com/)
 
 ChangeLog
 
+27 November 2017 (SIL font development team) KeymanWeb-OSK version 1.951
+- Fixed encoding of 11 new glyphs
+
 17 November 2017 (SIL font development team) KeymanWeb-OSK version 1.950
 - Test version
 - Made sidebearings on symbols consistent

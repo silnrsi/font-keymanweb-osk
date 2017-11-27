@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>KeymanwebOsk</string>
   <key>openTypeHeadCreated</key>
-  <string>2017/11/17 17:00:00</string>
+  <string>2017/11/09 17:00:00</string>
   <key>openTypeHheaAscender</key>
   <integer>1970</integer>
   <key>openTypeHheaDescender</key>
@@ -79,7 +79,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: KeymanwebOsk: 2017</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.950</string>
+  <string>Version 1.951</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -175,7 +175,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>950</integer>
+  <integer>951</integer>
   <key>xHeight</key>
   <integer>1054</integer>
 </dict>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shift_alt" format="2">
   <advance width="2766"/>
+  <unicode hex="E064"/>
   <outline>
     <contour>
       <point x="1504" y="1033" type="line"/>

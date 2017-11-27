@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="right_ctrl" format="2">
   <advance width="3079"/>
+  <unicode hex="E059"/>
   <outline>
     <contour>
       <point x="3029" y="1309" type="line"/>
