@@ -79,7 +79,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL International: KeymanwebOsk: 2017</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.960</string>
+  <string>Version 1.961</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -175,7 +175,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>960</integer>
+  <integer>961</integer>
   <key>xHeight</key>
   <integer>1054</integer>
 </dict>

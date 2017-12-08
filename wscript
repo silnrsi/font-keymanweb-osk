@@ -17,8 +17,8 @@ VCS = 'git'
 # set the font name, version, licensing and description
 APPNAME = 'KeymanwebOsk'
 FILENAMEBASE = 'KeymanwebOsk'
-VERSION = '1.960'
-TTF_VERSION = '1.960'
+VERSION = '1.961'
+TTF_VERSION = '1.961'
 BUILDLABEL = ""
 COPYRIGHT = "Copyright (c) 2013-2017 SIL International (http://www.sil.org) with Reserved Font Names 'Keyman' and 'SIL."
 LICENSE = "OFL.txt"
@@ -35,7 +35,7 @@ DESC_NAME = "KeymanwebOsk"
 DEBPKG = 'fonts-sil-keymanweb-osk'
 
 font(target='keymanweb-osk.ttf',
-     source=create('keymanweb-osk-src.ttf', cmd('psfufo2ttf ${SRC} ${TGT}', ['source/KeymanwebOsk.ufo'])),
+     source=create('keymanweb-osk-src.ttf', cmd('psfufo2ttf ${SRC} ${TGT}', ['source/KeymanwebOsk-Regular.ufo'])),
      version=VERSION,
      #license=ofl('Sevda'),
      #opentype=fea('source/' + fname + '.ufo/' + 'features.fea', no_make=1)
