@@ -17,8 +17,8 @@ VCS = 'git'
 # set the font name, version, licensing and description
 APPNAME = 'KeymanwebOsk'
 FILENAMEBASE = 'KeymanwebOsk'
-VERSION = '1.951'
-TTF_VERSION = '1.951'
+VERSION = '1.960'
+TTF_VERSION = '1.960'
 BUILDLABEL = ""
 COPYRIGHT = "Copyright (c) 2013-2017 SIL International (http://www.sil.org) with Reserved Font Names 'Keyman' and 'SIL."
 LICENSE = "OFL.txt"
