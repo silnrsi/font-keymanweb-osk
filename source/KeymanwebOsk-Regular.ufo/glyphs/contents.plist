@@ -200,8 +200,12 @@
   <string>left_alt_ctrl.glif</string>
   <key>left_alt_ctrl_shift</key>
   <string>left_alt_ctrl_shift.glif</string>
+  <key>left_alt_shift</key>
+  <string>left_alt_shift.glif</string>
   <key>left_ctrl</key>
   <string>left_ctrl.glif</string>
+  <key>left_ctrl_shift</key>
+  <string>left_ctrl_shift.glif</string>
   <key>less</key>
   <string>less.glif</string>
   <key>lowercase</key>
@@ -260,8 +264,12 @@
   <string>right_alt_ctrl.glif</string>
   <key>right_alt_ctrl_shift</key>
   <string>right_alt_ctrl_shift.glif</string>
+  <key>right_alt_shift</key>
+  <string>right_alt_shift.glif</string>
   <key>right_ctrl</key>
   <string>right_ctrl.glif</string>
+  <key>right_ctrl_shift</key>
+  <string>right_ctrl_shift.glif</string>
   <key>s</key>
   <string>s.glif</string>
   <key>semicolon</key>
