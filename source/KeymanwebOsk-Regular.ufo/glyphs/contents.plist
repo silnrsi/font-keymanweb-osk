@@ -88,6 +88,8 @@
   <string>back_1.glif</string>
   <key>back_2</key>
   <string>back_2.glif</string>
+  <key>back_rev</key>
+  <string>back_rev.glif</string>
   <key>backslash</key>
   <string>backslash.glif</string>
   <key>bar</key>
@@ -140,6 +142,8 @@
   <string>ellipsis.glif</string>
   <key>enter</key>
   <string>enter.glif</string>
+  <key>enter_rev</key>
+  <string>enter_rev.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
   <key>exclam</key>
@@ -284,8 +288,12 @@
   <string>shift_alt_ctrl.glif</string>
   <key>shift_ctrl</key>
   <string>shift_ctrl.glif</string>
+  <key>shift_lock</key>
+  <string>shift_lock.glif</string>
   <key>shifted</key>
   <string>shifted.glif</string>
+  <key>shifted_lock</key>
+  <string>shifted_lock.glif</string>
   <key>six</key>
   <string>six.glif</string>
   <key>slash</key>

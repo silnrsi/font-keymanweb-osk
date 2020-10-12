@@ -12,6 +12,13 @@ Keyman's mobile software. (http://keyman.com/)
 
 ChangeLog
 
+12 October 2020 (SIL font development team) KeymanWeb-OSK version 2.100
+- Added 4 new glyphs
+    E071 enter_rev
+    E072 back_rev
+    E073 shift_lock
+    E074 shifted_lock
+
 08 December 2017 (SIL font development team) KeymanWeb-OSK version 2.000
 - Added 4 new glyphs
 
