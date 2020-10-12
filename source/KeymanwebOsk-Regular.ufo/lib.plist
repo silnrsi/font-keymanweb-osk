@@ -2,18 +2,65 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>com.schriftgestaltung.Glyphs.fontUserData</key>
+  <dict>
+    <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
+    <array/>
+  </dict>
+  <key>com.schriftgestaltung.appVersion</key>
+  <string>1346</string>
+  <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
+  <dict>
+    <key>XXXX</key>
+    <dict>
+      <key>0</key>
+      <integer>0</integer>
+    </dict>
+    <key>wdth</key>
+    <dict>
+      <key>100</key>
+      <integer>100</integer>
+    </dict>
+    <key>wght</key>
+    <dict>
+      <key>400</key>
+      <integer>400</integer>
+      <key>700</key>
+      <integer>700</integer>
+    </dict>
+  </dict>
+  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
+  <array>
+    <string>/pin_1</string>
+  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
+  <integer>0</integer>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
+  <integer>0</integer>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue2</key>
+  <integer>0</integer>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue3</key>
+  <integer>0</integer>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.iconName</key>
+  <string/>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
+  <integer>400</integer>
+  <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
+  <integer>100</integer>
   <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.disablesLastChange</key>
   <true/>
-  <key>com.schriftgestaltung.useNiceNames</key>
-  <false/>
+  <key>com.schriftgestaltung.fontMasterOrder</key>
+  <integer>0</integer>
+  <key>com.schriftgestaltung.keyboardIncrement</key>
+  <integer>1</integer>
   <key>com.schriftgestaltung.weight</key>
   <string>Regular</string>
   <key>com.schriftgestaltung.weightValue</key>
