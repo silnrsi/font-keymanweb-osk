@@ -1,0 +1,3 @@
+#!/bin/sh
+
+psfufo2glyphs source/KeymanwebOsk.designspace source/KeymanwebOsk.glyphs

@@ -1,3 +1,3 @@
 #!/bin/sh
 
-psfnormalize source/KeymanwebOsk.ufo
+psfnormalize -p checkfix=fix source/KeymanwebOsk-Regular.ufo
