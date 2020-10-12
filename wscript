@@ -10,11 +10,6 @@ getufoinfo('source/KeymanwebOsk-Regular.ufo')
 
 fontfamily=APPNAME
 
-font(target='keymanweb-osk.ttf',
-     source=create('keymanweb-osk-src.ttf', cmd('psfufo2ttf ${SRC} ${TGT}', ['source/KeymanwebOsk-Regular.ufo'])),
-     version=VERSION,
-     )
-
 designspace('source/' + fontfamily + '.designspace',
             target = "${DS:FILENAME_BASE}.ttf",
             pdf = fret(params="-r -oi"),
