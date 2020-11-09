@@ -12,6 +12,11 @@ Keyman's mobile software. (http://keyman.com/)
 
 ChangeLog
 
+9 November 2020 (SIL font development team) KeymanWeb-OSK version 2.200
+- Added 2 new glyphs
+    E075 zwnj_ios
+    E076 zwnj_android
+
 12 October 2020 (SIL font development team) KeymanWeb-OSK version 2.100
 - Added 4 new glyphs
     E071 enter_rev

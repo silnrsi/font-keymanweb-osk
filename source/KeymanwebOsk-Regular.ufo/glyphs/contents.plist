@@ -336,5 +336,9 @@
   <string>z.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zwnj_android</key>
+  <string>zwnj_android.glif</string>
+  <key>zwnj_ios</key>
+  <string>zwnj_ios.glif</string>
 </dict>
 </plist>

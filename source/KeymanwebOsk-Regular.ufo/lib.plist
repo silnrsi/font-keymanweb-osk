@@ -8,7 +8,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>1346</string>
+  <string>1349</string>
   <key>com.schriftgestaltung.customParameter.GSFont.Axis Mappings</key>
   <dict>
     <key>XXXX</key>
@@ -31,6 +31,8 @@
   </dict>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
+    <string>/zwnj_android</string>
+    <string>/zwnj_ios</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -52,10 +54,6 @@
   <integer>400</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
   <integer>100</integer>
-  <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
-  <true/>
-  <key>com.schriftgestaltung.disablesLastChange</key>
-  <true/>
   <key>com.schriftgestaltung.fontMasterOrder</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.keyboardIncrement</key>
