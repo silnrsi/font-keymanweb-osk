@@ -1,4 +1,4 @@
-#!/usr/bin/pythons
+#!/usr/bin/python3
 # encoding: utf-8
 # this is a smith configuration file
 
