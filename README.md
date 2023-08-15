@@ -1,5 +1,7 @@
 # KeymanWeb-OSK
 
+**This project is no longer being updated, and has been replaced by [SymChar](https://github.com/silnrsi/font-symchar).**
+
 KeymanWeb-OSK is an open font used for interface elements of KeymanWeb and Keyman's mobile software (http://keyman.com/). Font sources are in UFO3 format.
 
 The build process requires [smith](https://github.com/silnrsi/smith) and project build parameters are set in the [wscript](wscript).
